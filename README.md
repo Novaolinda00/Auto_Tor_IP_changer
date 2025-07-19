@@ -1,6 +1,6 @@
 # Auto_Tor_IP_changer V 2.1
 change your Ip Address automatically  This tool based on tor project
-
+https://github.com/FDX100/Auto_Tor_IP_changer.git
 
 how to install this tools :
 
@@ -10,7 +10,7 @@ how to install this tools :
   pip3 install requests[socks]
   or just run autoTor it will install everything
 
-1: git clone https://github.com/FDX100/Auto_Tor_IP_changer.git
+1: git clone https://[github.com/FDX100/Auto_Tor_IP_changer.git](https://github.com/FDX100/Auto_Tor_IP_changer.git)
 
 2 : cd Auto_Tor_IP_changer
 
